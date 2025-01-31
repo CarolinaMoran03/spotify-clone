@@ -53,7 +53,7 @@ let openMenu = ref(false);
 						src="https://yt3.ggpht.com/e9o-24_frmNSSVvjS47rT8qCHgsHNiedqgXbzmrmpsj6H1ketcufR1B9vLXTZRa30krRksPj=s88-c-k-c0x00ffffff-no-rj-mo"
 					/>
 					<div class="text-white text-[14px] ml-1.5 font-semibold">
-						Shair Dev
+						Carolina CM
 					</div>
 					<ChevronDown
 						v-if="!openMenu"
